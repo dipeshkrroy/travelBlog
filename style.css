@@ -1,0 +1,25 @@
+.background{
+    width: 100%;
+    display: flex;
+    height: 720px;
+
+}
+.carousel-caption{
+    opacity: 0.8;
+}
+.caption{
+    z-index: 1;
+}
+.dark-overlay{
+    width: 100%;
+    background-color: black;
+    opacity: 0.99;
+    position: absolute;
+}
+.card-img-top{
+    width: 200%;
+    height: 100%;
+}
+.border{
+    border: 1px solid blue;
+}
